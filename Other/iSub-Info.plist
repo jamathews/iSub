@@ -21,7 +21,7 @@
 		<string>Icon-76@2x.png</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>com.einsteinx2.isub</string>
+	<string>ca.justinmathews.isub</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -33,12 +33,12 @@
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.einsteinx2.isub</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>isub</string>
 			</array>
-			<key>CFBundleURLName</key>
-			<string>com.einsteinx2.isub</string>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
